@@ -1,0 +1,17 @@
+html{
+margin:0px;
+}
+body{
+background-color:rgba(00,10,05, 0.7);
+background-image:url("756297.jpg");
+color:white;
+font-family:sans-serif;
+}
+p{
+padding:15px;
+border:2px solid red;
+text-align:center;
+color:white;
+font-size:2rem;
+background-color:rgba(200,0,5,0.4);
+}
